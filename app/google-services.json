@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999823597738",
+    "firebase_url": "https://gorentcar-23026.firebaseio.com",
+    "project_id": "gorentcar-23026",
+    "storage_bucket": "gorentcar-23026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999823597738:android:dec0a40bd9244718",
+        "android_client_info": {
+          "package_name": "com.ahmad.gorentcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999823597738-p012mcgog7lujluncoi9sslmmi2mbnia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDak9GR_sYCyrijVaBLnTHAJ8weD30Qe50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999823597738-p012mcgog7lujluncoi9sslmmi2mbnia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

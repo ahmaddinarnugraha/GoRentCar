@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sewa_mobil"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="@string/sewa_mobil" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_border_black_24dp"
+            android:title="@string/favorit"/>
+        <item
+            android:id="@+id/nav_transaksi"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="@string/history_transaksi" />
+        <item
+            android:id="@+id/nav_panduan"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="@string/panduan" />
+        <item
+        android:id="@+id/nav_bantuan"
+        android:icon="@drawable/ic_help_black_24dp"
+        android:title="@string/bantuan" />
+
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_mood_black_24dp"
+            android:title="@string/tentang_aplikasi" />
+    </group>
+
+    <item android:title="@string/akun_saya">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="@string/profile_saya" />
+            <item
+                android:id="@+id/nav_keluar"
+                android:icon="@drawable/ic_subdirectory_arrow_left_black_24dp"
+                android:title="@string/keluar" />
+        </menu>
+    </item>
+</menu>
